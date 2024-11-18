@@ -83,7 +83,7 @@ If you use these codes for your work, please cite the following paper:
 
 Cunzhi Zhao and Xingpeng Li, “Cunzhi Zhao and Xingpeng Li, “Hierarchical Deep Learning Model for Degradation Prediction per Look-Ahead Scheduled Battery Usage Profile”, *IEEE Transactions on Smart Grid*, Sep. 2024.
 
-Paper website: https://rpglab.github.io/papers/ArunR_FL-ML-R-SCUC/
+Paper website: https://rpglab.github.io/resources/HDL-BDQ/
 
 
 ## Contributions:
