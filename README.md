@@ -81,7 +81,7 @@ This folder contains all the trained DNN models.
 ## Citation:
 If you use these codes for your work, please cite the following paper:
 
-Cunzhi Zhao and Xingpeng Li, “Cunzhi Zhao and Xingpeng Li, “Hierarchical Deep Learning Model for Degradation Prediction per Look-Ahead Scheduled Battery Usage Profile”, *IEEE Transactions on Smart Grid*, Sep. 2024.
+Cunzhi Zhao and Xingpeng Li, “Cunzhi Zhao and Xingpeng Li, “Hierarchical Deep Learning Model for Degradation Prediction per Look-Ahead Scheduled Battery Usage Profile”, *IEEE Transactions on Smart Grid*, vol. 16, no. 2, pp. 1925 - 1937, Mar. 2025.
 
 Paper website: https://rpglab.github.io/resources/HDL-BDQ/
 
